@@ -1,0 +1,15 @@
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\bin\Release\net6.0\PitónTranslator.exe
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\bin\Release\net6.0\PitónTranslator.deps.json
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\bin\Release\net6.0\PitónTranslator.runtimeconfig.json
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\bin\Release\net6.0\PitónTranslator.dll
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\bin\Release\net6.0\PitónTranslator.pdb
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.csproj.AssemblyReference.cache
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.AssemblyInfoInputs.cache
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.AssemblyInfo.cs
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.csproj.CoreCompileInputs.cache
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.dll
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\refint\PitónTranslator.dll
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.pdb
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\PitónTranslator.genruntimeconfig.cache
+C:\Users\josym\OneDrive\Development\Pitón\PitónTranslator\obj\Release\net6.0\ref\PitónTranslator.dll

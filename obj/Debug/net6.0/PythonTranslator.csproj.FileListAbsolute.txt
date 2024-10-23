@@ -1,0 +1,15 @@
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\bin\Debug\net6.0\PythonTranslator.exe
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\bin\Debug\net6.0\PythonTranslator.deps.json
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\bin\Debug\net6.0\PythonTranslator.runtimeconfig.json
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\bin\Debug\net6.0\PythonTranslator.dll
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\bin\Debug\net6.0\PythonTranslator.pdb
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.csproj.AssemblyReference.cache
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.AssemblyInfoInputs.cache
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.AssemblyInfo.cs
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.csproj.CoreCompileInputs.cache
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.dll
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\refint\PythonTranslator.dll
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.pdb
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\PythonTranslator.genruntimeconfig.cache
+C:\Users\josym\OneDrive\Development\Multilingual Python\PythonTranslator\obj\Debug\net6.0\ref\PythonTranslator.dll
