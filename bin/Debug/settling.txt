@@ -1,0 +1,7 @@
+Add C:\Users\josym\OneDrive\Development\Pitono\Pitono\bin\Debug\net6.0 to the PATH variable
+
+Get the absolute location of the translator.exe file for referencing use
+Get the absolute location of the language.txt file for referencing use
+Put pitono.bat file in C:\Windows\System32
+
+Go to Control Panel > Region > Administrative tab and make sure UTF-8 for all languages is checked.

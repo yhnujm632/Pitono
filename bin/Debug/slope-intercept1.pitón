@@ -1,0 +1,22 @@
+def pmt(dsfs):
+    imprimir(dsfs[3])
+
+pmt([1, 4])
+imprimir("Calculador de la Forma Pendiente-Intersección") # Mi título
+imprimir("(por Mateo)\n") # Mi subtítulo
+
+# Consiguiendo los puntos y convirtiendo los puntos a 'números flotantes' (números flotantes son decimals)
+xPuntoUno = float(entrada("Introduzca la coordenada X de su primer punto: "))
+yPuntoUno = float(entrada("Introduzca la coordenada Y de su primer punto: "))
+xPuntoDos = float(entrada("Introduzca la coordenada X de su segundo punto: "))
+yPuntoDos = float(entrada("Introduzca la coordenada Y de su segundo punto: "))
+
+# Calculando la pendiente
+pendiente = (yPuntoUno - yPuntoDos) / (xPuntoUno - xPuntoDos)
+
+# Calculando la intersección con el eje y
+yintersección = (yPuntoUno - (pendiente * xPuntoUno))
+
+# Turning the y-intercept and the slope back into words
+imprimir("\nSu forma pendiente-intersección es:")
+imprimir("y = " + cad(pendiente) + "x + " + cad(yintersección)) # Imprimiendo el respuesta

@@ -1,0 +1,36 @@
+打印("Hello1 wrold")
+打印("Hello2 wrold")
+打印("Hello3 wrold")
+打印("Hello4 wrold")
+打印("Hello5 wrold")
+打印("Hello6 wrold")
+打印("Hello7 wrold")
+打印("Hello8 wrold")
+打印("Hello9 wrold")
+打印("Hello10 wrold")
+打印("Hello11 wrold")
+定义 pmt(dsfs):
+    打印(dsfs[3])
+定义 prtt(dhd):
+    pmt(dhd)
+
+prtt([1, 4])
+打印("Calculador de la Forma Pendiente-Intersección") 
+打印("(por Mateo)\n") 
+
+
+xPuntoUno = 漂浮(输入("Introduzca la coordenada X de su primer punto: "))
+yPuntoUno = 漂浮(输入("Introduzca la coordenada Y de su primer punto: "))
+xPuntoDos = 漂浮(输入("Introduzca la coordenada X de su segundo punto: "))
+yPuntoDos = 漂浮(输入("Introduzca la coordenada Y de su segundo punto: "))
+
+
+pendiente = (yPuntoUno - yPuntoDos) / (xPuntoUno - xPuntoDos)
+
+
+yintersección = (yPuntoUno - (pendiente * xPuntoUno))
+
+
+打印("\nSu forma pendiente-intersección es:")
+打印("y = " + cad(pendiente) + "x + " + cad(yintersección)) 
+

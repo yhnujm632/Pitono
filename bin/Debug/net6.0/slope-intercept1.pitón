@@ -1,0 +1,35 @@
+imprimir("Hello1 wrold")
+imprimir("Hello2 wrold")
+imprimir("Hello3 wrold")
+imprimir("Hello4 wrold")
+imprimir("Hello5 wrold")
+imprimir("Hello6 wrold")
+imprimir("Hello7 wrold")
+imprimir("Hello8 wrold")
+imprimir("Hello9 wrold")
+imprimir("Hello10 wrold")
+imprimir("Hello11 wrold")
+def pmt(dsfs):
+    imprimir(dsfs[3])
+def prtt(dhd):
+    pmt(dhd)
+
+prtt([1, 4])
+imprimir("Calculador de la Forma Pendiente-Intersección") # Mi título
+imprimir("(por Mateo)\n") # Mi subtítulo
+
+# Consiguiendo los puntos y convirtiendo los puntos a 'números flotantes' (números flotantes son decimals)
+xPuntoUno = float(entrada("Introduzca la coordenada X de su primer punto: "))
+yPuntoUno = float(entrada("Introduzca la coordenada Y de su primer punto: "))
+xPuntoDos = float(entrada("Introduzca la coordenada X de su segundo punto: "))
+yPuntoDos = float(entrada("Introduzca la coordenada Y de su segundo punto: "))
+
+# Calculando la pendiente
+pendiente = (yPuntoUno - yPuntoDos) / (xPuntoUno - xPuntoDos)
+
+# Calculando la intersección con el eje y
+yintersección = (yPuntoUno - (pendiente * xPuntoUno))
+
+# Turning the y-intercept and the slope back into words
+imprimir("\nSu forma pendiente-intersección es:")
+imprimir("y = " + cad(pendiente) + "x + " + cad(yintersección)) # Imprimiendo el respuesta

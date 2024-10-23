@@ -1,0 +1,5 @@
+x = 1
+si x == 3:
+   imprimir("hola")
+si_no:
+   imprimir("adiós")

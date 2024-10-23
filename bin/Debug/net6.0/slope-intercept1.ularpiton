@@ -1,0 +1,36 @@
+mencetak("Hello1 wrold")
+mencetak("Hello2 wrold")
+mencetak("Hello3 wrold")
+mencetak("Hello4 wrold")
+mencetak("Hello5 wrold")
+mencetak("Hello6 wrold")
+mencetak("Hello7 wrold")
+mencetak("Hello8 wrold")
+mencetak("Hello9 wrold")
+mencetak("Hello10 wrold")
+mencetak("Hello11 wrold")
+def pmt(dsfs):
+    mencetak(dsfs[3])
+def prtt(dhd):
+    pmt(dhd)
+
+prtt([1, 4])
+mencetak("Calculador de la Forma Pendiente-Intersección") 
+mencetak("(por Mateo)\n") 
+
+
+xPuntoUno = mengambang(masukan("Introduzca la coordenada X de su primer punto: "))
+yPuntoUno = mengambang(masukan("Introduzca la coordenada Y de su primer punto: "))
+xPuntoDos = mengambang(masukan("Introduzca la coordenada X de su segundo punto: "))
+yPuntoDos = mengambang(masukan("Introduzca la coordenada Y de su segundo punto: "))
+
+
+pendiente = (yPuntoUno - yPuntoDos) / (xPuntoUno - xPuntoDos)
+
+
+yintersección = (yPuntoUno - (pendiente * xPuntoUno))
+
+
+mencetak("\nSu forma pendiente-intersección es:")
+mencetak("y = " + cad(pendiente) + "x + " + cad(yintersección)) 
+

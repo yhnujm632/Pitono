@@ -1,0 +1,36 @@
+drucken("Hello1 wrold")
+drucken("Hello2 wrold")
+drucken("Hello3 wrold")
+drucken("Hello4 wrold")
+drucken("Hello5 wrold")
+drucken("Hello6 wrold")
+drucken("Hello7 wrold")
+drucken("Hello8 wrold")
+drucken("Hello9 wrold")
+drucken("Hello10 wrold")
+drucken("Hello11 wrold")
+def pmt(dsfs):
+    drucken(dsfs[3])
+def prtt(dhd):
+    pmt(dhd)
+
+prtt([1, 4])
+drucken("Calculador de la Forma Pendiente-Intersección") 
+drucken("(por Mateo)\n") 
+
+
+xPuntoUno = schweben(eingang("Introduzca la coordenada X de su primer punto: "))
+yPuntoUno = schweben(eingang("Introduzca la coordenada Y de su primer punto: "))
+xPuntoDos = schweben(eingang("Introduzca la coordenada X de su segundo punto: "))
+yPuntoDos = schweben(eingang("Introduzca la coordenada Y de su segundo punto: "))
+
+
+pendiente = (yPuntoUno - yPuntoDos) / (xPuntoUno - xPuntoDos)
+
+
+yintersección = (yPuntoUno - (pendiente * xPuntoUno))
+
+
+drucken("\nSu forma pendiente-intersección es:")
+drucken("y = " + cad(pendiente) + "x + " + cad(yintersección)) 
+
